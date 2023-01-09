@@ -1,3 +1,5 @@
+// status: Complete
+
 function flipAndInvertImage(image: number[][]): number[][] {
   let result: number[][] = [];
 

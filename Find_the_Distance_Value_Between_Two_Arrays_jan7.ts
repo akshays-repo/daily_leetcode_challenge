@@ -1,3 +1,5 @@
+// status: incomplete
+
 function findTheDistanceValue(
   arr1: number[],
   arr2: number[],
@@ -23,5 +25,4 @@ function findTheDistanceValue(
   }
   return distance;
 }
-
 console.log(findTheDistanceValue([4, 5, 8], [4, 5, 8], 3));
