@@ -2,7 +2,7 @@
 
 // Input: date = "20th Oct 2052"
 // Output: "2052-10-20"
-// Status: InProgress
+// Status: Completed
 
 let months = {
   Jan: "01",
