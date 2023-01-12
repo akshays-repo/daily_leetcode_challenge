@@ -1,9 +1,10 @@
+// TODO
+
 // Minimum Difference Between Highest and Lowest of K Scores
+// Status: Incomplete
 
 // Input: nums = [9,4,1,7], k = 2
-
 // Output: 2
-
 // Explanation: There are six ways to pick score(s) of two students:
 // - [9,4,1,7]. The difference between the highest and lowest score is 9 - 4 = 5.
 // - [9,4,1,7]. The difference between the highest and lowest score is 9 - 1 = 8.
@@ -30,7 +31,6 @@ function minimumDifference(nums: number[], k: number): number {
       }
     }
   }
-
   return resultNumber;
 }
 
